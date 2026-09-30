@@ -1,0 +1,6 @@
+*.db
+*.db-journal
+users.txt
+naive-users.txt
+btree-trace.json
+__pycache__/
